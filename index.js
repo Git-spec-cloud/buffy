@@ -14,7 +14,7 @@ console.log(`
 `);
 
 const server = http.createServer();
-const url = "https://selenite.cc";
+const url = "https://now.gg/apps/roblox-corporation/5349/roblox.html";
 const PORT = process.env.PORT || 8080;
 
 server.on("request", async (req, res) => {
